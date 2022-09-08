@@ -1,0 +1,20 @@
+---
+title: "SpammerHere"
+---
+
+
+Hello world!!
+
+I am Shubham Tomar, a physician from India and clinical researcher. I am currently a full-time Masters in Public Health (MPH) student at the Bloomberg School of Public Health. 
+
+### About me: 
+Prior to coming to Hopkins I've been a team leader, a clinical investigator and researcher, a medical scribe, a medical consultant in a Healthtech startup, a content developer, and above all, a physician with experience working in primary and tertiary centers.  
+I am familiar with STATA and basics of R and Python. 
+Excited to be here with all the keen biostatisticians.
+
+### Fun facts about me: 
+- I recently moved to the US for the first time and looking forward to suggestions for places to visit. 
+- Only doctor in my family, surrounded by engineers. 
+- I love cooking in my spare time and now-a-days it's helping me a lot. 
+- I go by the name of spammer given by two of the friends whom I met for the first time after coming to US.
+- My elder brother, my supporter in all deeds, is a data scientist in San Francisco. 
